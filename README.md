@@ -4,6 +4,7 @@ Projet LIFPROJET - Gestion intelligente de parkings dans un centre urbain (SA4).
 
 Réalisé par FERRER Raphaël (p1908300), BOULET Benjamin (p2006010), MUNOZ Matéo (p2002495).
 
+## Explication détaillés du projet dans le fichier pdf : Rapport Lifprojet SA4.pdf
 
 # Démo vidéo
 Voici une démonstration vidéo chapitré de cette application : https://youtu.be/JPF5OE7hKS0 .
